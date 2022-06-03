@@ -1,5 +1,5 @@
 # Hawaii Okinawa Creative Arts
-Welcome to our GitHub page, where we will be documenting our progress and milestones! We are building this website for the Hawaii Okinawa Creative Arts to help bring all the information in a coherent location for viewing and to spread how Hawaii is continuing to preserve and perpetuate the Okinawan lion (Shishimai). This project is being overseen by Co-Founders/Co-Presidents Mr. Jon Itomura and Mr. Eric. 
+Welcome to our GitHub page, where we will be documenting our progress and milestones! We are building this website for the Hawaii Okinawa Creative Arts to help bring all the information in a coherent location for viewing and to spread how Hawaii is continuing to preserve and perpetuate the Okinawan lion (Shishimai). This project is being overseen by Co-Founders/Co-Presidents Mr. Jon Itomura and Mr. Eric Nitta. 
 
 The prpject is being developed using full stack meteror which is a javascript framework. 
 
