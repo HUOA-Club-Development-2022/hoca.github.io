@@ -15,6 +15,7 @@ Our current project is to design and create a website for HOCA. HOCA is a member
 - very diverse background of peoples 
 - ages maybe? 
 - growing up as FAMILY
+- giving back to community
 
 ### About Us 
 - goals
