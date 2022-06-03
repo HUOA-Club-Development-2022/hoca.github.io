@@ -11,15 +11,26 @@ Our current project is to design and create a website for HOCA. HOCA is a member
 
 ## Mockup
 
+#### Home Page
+- very diverse background of peoples 
+- ages maybe? 
+- growing up as FAMILY
+
 ### About Us 
 - goals
-- current goals
+- what acticities we do 
+-  -- practices
+-  -- summer picnic 
+-  -- volunteering
 - Members
 
 ### Another tab 
 - What is Okinawan culture?
 - What is Okinawan lion?
+- --- different lions
 - What is Okinawan dance?
+- okinawan groups 
+- own performances
 - what do we do? 
 
 ### Performances
@@ -27,7 +38,7 @@ Our current project is to design and create a website for HOCA. HOCA is a member
 - requests 
 - join
 
-
 ### Login
-- Messaging 
+- Messaging
 - Performance announcements
+- Responding to whether can attend
