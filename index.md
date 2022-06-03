@@ -1,6 +1,7 @@
 # Hawaii Okinawa Creative Arts
-Welcome to our Github page! This page is created for anyone who is interested in joining our team in developing a website uisng full stack Meteor. The website is for Hawaii Okinawa Creative Arts, a performing arts group. If you are interested, please feel free to me at jklau88@hawaii.edu
+Welcome to our GitHub page, where we will be documenting our progress and milestones! We are building this website for the Hawaii Okinawa Creative Arts to help bring all the information in a coherent location for viewing and to spread how Hawaii is continuing to preserve and perpetuate the Okinawan lion (Shishimai). This project is being overseen by Co-Founders/Co-Presidents Mr. Jon Itomura and Mr. Eric. 
 
+The prpject is being developed using full stack meteror which is a javascript framework. 
 
 ## Overview
 Our current project is to design and create a website for HOCA. HOCA is a member of Hawaii United Okinawa Association. At the time writing, the project is still in its planning phase.
@@ -19,7 +20,7 @@ Our current project is to design and create a website for HOCA. HOCA is a member
 
 ### About Us 
 - goals
-- what acticities we do 
+- what activities we do 
 -  -- practices
 -  -- summer picnic 
 -  -- volunteering
