@@ -15,12 +15,19 @@ Our current project is to design and create a website for HOCA. HOCA is a member
 - goals
 - current goals
 - Members
+
+### Another tab 
 - What is Okinawan culture?
 - What is Okinawan lion?
 - What is Okinawan dance?
 - what do we do? 
 
-### Join/ Performances
+### Performances
+- Past Perforamnces 
 - requests 
 - join
 
+
+### Login
+- Messaging 
+- Performance announcements
