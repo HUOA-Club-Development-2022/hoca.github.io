@@ -27,7 +27,7 @@ Pending...
 Pending...
 
 ### Footer
-Pending
+Pending...
 
 ### Home Page
 - Diversity
@@ -36,14 +36,17 @@ Pending
 
 ### About Us 
 - Goals
--  What is Okinawan culture?
+- What do we do? 
+- Members
+
+### Our Culture
+- What is Okinawan culture?
 - What is Okinawan lion?
   - Different lions
 - What is Okinawan dance?
 - Okinawan groups 
 - Own performances
-- What do we do? 
-- Members
+
 
 ### Events
 - What activities we do 
