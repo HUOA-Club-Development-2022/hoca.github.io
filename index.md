@@ -6,39 +6,56 @@ The prpject is being developed using full stack meteror which is a javascript fr
 ## Overview
 Our current project is to design and create a website for HOCA. HOCA is a member of Hawaii United Okinawa Association. At the time writing, the project is still in its planning phase.
 
-### Members
+### Project Members
 - Amanda Nitta
 - James Lau
 
+## Milestones
+
+### Milestone 1
+Pending...
+
+### Milestone 2
+Pending...
+
+### Milestone 3
+Pending...
+
 ## Mockup
 
-#### Home Page
-- very diverse background of peoples 
-- ages maybe? 
+### Header/NavBar
+Pending...
+
+### Footer
+Pending
+
+### Home Page
+- Diversity
 - growing up as FAMILY
 - giving back to community
 
 ### About Us 
-- goals
-- what activities we do 
--  -- practices
--  -- summer picnic 
--  -- volunteering
+- Goals
+-  What is Okinawan culture?
+- What is Okinawan lion?
+  - Different lions
+- What is Okinawan dance?
+- Okinawan groups 
+- Own performances
+- What do we do? 
 - Members
 
-### Another tab 
-- What is Okinawan culture?
-- What is Okinawan lion?
-- --- different lions
-- What is Okinawan dance?
-- okinawan groups 
-- own performances
-- what do we do? 
-
-### Performances
+### Events
+- What activities we do 
+  - Practices
+  - Summer picnic 
+  - Volunteering
 - Past Perforamnces 
 - requests 
 - join
+
+### Newsletter
+- Updates from the community
 
 ### Login
 - Messaging
