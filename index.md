@@ -60,7 +60,7 @@ Pending...
 - join
 
 ### Newsletter
-- Updates from the community
+- Updates from the community ==> what HOCA is currently working on
 
 ### Login
 - Messaging
