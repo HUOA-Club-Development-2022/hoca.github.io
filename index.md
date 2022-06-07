@@ -1,7 +1,11 @@
 # Hawaii Okinawa Creative Arts
 Welcome to our GitHub page, where we will be documenting our progress and milestones! We are building this website for the Hawaii Okinawa Creative Arts to help bring all the information in a coherent location for viewing and to spread how Hawaii is continuing to preserve and perpetuate the Okinawan lion (Shishimai) along with performing arts. This project is being overseen by Co-Founders/Co-Presidents Mr. Jon Itomura and Mr. Eric Nitta. 
 
-The project is being developed using full stack meteror which is a javascript framework. 
+The project is being developed using full stack meteror including the following technology:
+- Meteor for Javascript-based implementation of client and server code.
+- React for component-based UI implementation and routing.
+- React-Bootstrap CSS Framework for UI design
+- MongoDB Document model for backend
 
 ## Overview
 Our current project is to design and create a website for HOCA. HOCA is a performing arts group of Hawaii United Okinawa Association located on Oahu, Hawaii. At the time writing, the project is still in its planning phase.
@@ -13,21 +17,21 @@ Our current project is to design and create a website for HOCA. HOCA is a perfor
 ## Milestones
 
 ### Milestone 1
-Pending...
+The project is currently in Milestone 1. Milestone 1 is the planning phase of the project. Each page of the website will be drawn out using Google Drawing and Slides. Content on the page will be written on a draft and reviewed.
 
 ### Milestone 2
-Pending...
+The goal of Milestone 2 is to have a basic, but functional site available for deployment. Most functionality will not be yet be implemented for testing purposes. The site will be static.
 
 ### Milestone 3
-Pending...
+Planned features and/or animations will be added to the project. Stylizing and asethic features will be 
 
 ## Mockup
 
 ### Header/NavBar
-Pending...
+Header (or NavBar from React-Bootstrap) is a component that sits at the top of each page. The header includes the logo, links, and a login/logout button.
 
 ### Footer
-Pending...
+Similar the header, the footer will also be visible at the bottom of every page. The page will include links, socials, and contacts.
 
 ### Home Page
 - ---Diversity
@@ -66,3 +70,11 @@ Pending...
 - Messaging
 - Performance announcements
 - Responding to whether can attend 
+
+# Developer Guide
+1. Download and install Meteor and Node.js (aka NPM)
+2. Using the terminal, navigate to app folder (e.g. .../huoa-club-development/app)
+3. Type "meteor npm install"
+4. Type "meteor npm run start"
+
+The site should be running on the localhost.
