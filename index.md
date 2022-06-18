@@ -14,6 +14,12 @@ Our current project is to design and create a website for HOCA. HOCA is a perfor
 - Amanda Nitta
 - James Lau
 
+
+### In Progress 
+- Milestone 1 = developing general idea for pages
+-- Amanda = Getting photos and writing info and doing some pages 
+-- James = designing pages EX. login and starting to learn boostrap while appling semantic frameworks
+
 ## Milestones
 
 ### Milestone 1
